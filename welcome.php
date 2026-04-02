@@ -13,6 +13,6 @@ if (!isset($_SESSION['username'])) {
 </head>
 <body>
 <h2>Xin chào, <?php echo $_SESSION['username']; ?>!</h2>
-<p>Đăng nhập thành công 🎉</p>
+<p>Đăng nhập thành công</p>
 </body>
 </html>
